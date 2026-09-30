@@ -1,9 +1,4 @@
-```python
-"""
-Student Academic Performance Prediction System
-This system predicts student academic performance using machine learning
-based on study hours, attendance, and learning behavior analysis.
-"""
+
 
 import numpy as np
 import pandas as pd
@@ -1144,4 +1139,3 @@ def main():
 
 if __name__ == "__main__":
     df, results, best_model_name = main()
-```
