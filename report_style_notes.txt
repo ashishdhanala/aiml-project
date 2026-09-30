@@ -1,0 +1,16 @@
+Sample Chapters 1 and 2 style notes from Chapter-1and2Smaple.pdf:
+
+1. Document uses centered uppercase chapter headings such as 'CHAPTER 1' followed by centered uppercase chapter title such as 'EXECUTIVE SUMMARY'.
+2. Body text is in fully justified paragraph format with formal academic prose.
+3. Section numbering uses decimal headings such as 1.1, 1.2, 2.1, 2.2, etc.
+4. Subsections often begin with a short introductory paragraph followed by bulleted points.
+5. Chapter 1 contains sections like Learning Objectives and Outcomes Achieved, written in first-person internship style.
+6. Chapter 2 contains organization overview sections including Introduction of the Organization, Vision Mission and Values, Policy in Relation to Intern Role, Organizational Structure, and Roles and Responsibilities.
+7. Pages have a decorative dotted page border and watermark/logo in the center background.
+8. Formatting emphasizes bold subsection titles and clean spacing between paragraphs.
+9. The report appears to use a traditional serif font, likely Times New Roman, with chapter titles in larger bold text.
+10. Chapter 2 uses bullets and numbered lists for organizational roles and responsibilities.
+
+These notes should guide the new report style, especially for Chapter 1 and Chapter 2 composition.
+
+Source: /home/ubuntu/upload/Chapter-1and2Smaple.pdf

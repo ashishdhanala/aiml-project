@@ -1,0 +1,24 @@
+Table of Contents Style Notes from tableofcontents.pdf:
+
+1. Title: Centered uppercase "TABLE OF CONTENTS"
+2. Format: Left-aligned chapter and section numbers with titles, followed by page numbers
+3. Hierarchical structure:
+   - Main chapters (1, 2, 3, 4) in bold uppercase
+   - Section 1.1, 1.2, etc. indented with decimal numbering
+   - Subsections 3.1.1, 3.1.2, etc. further indented
+   - Dotted lines connecting titles to page numbers
+4. Page numbers right-aligned
+5. Chapters shown:
+   - Chapter 1: EXECUTIVE SUMMARY (page 1)
+   - Chapter 2: OVERVIEW OF THE ORGANIZATION (page 3)
+   - Chapter 3: INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (page 8)
+   - Chapter 4: INTELLIGENT TEXT-BASED CHATBOT FOR PERSONAL PRODUCTIVITY (page 24)
+   - REFERENCES (page 41)
+
+6. The TOC shows a comprehensive structure with multiple subsections per chapter
+7. Formatting uses consistent spacing and alignment
+8. Page numbers are right-aligned with dotted leaders
+
+For the Student Academic Performance Prediction System report, the TOC should follow this same style with appropriate chapter titles and page numbers.
+
+Source: /home/ubuntu/upload/tableofcontents.pdf
